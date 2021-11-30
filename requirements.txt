@@ -1,0 +1,15 @@
+kaggle
+gensim==3.6.0
+paramiko
+spacy
+keras
+numpy
+tensorflow
+pandas
+tqdm
+nltk
+scikit-learn
+matplotlib
+IPython
+seaborn
+keras-tcn
